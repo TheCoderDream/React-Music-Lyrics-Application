@@ -1,3 +1,6 @@
+![alt-text](https://github.com/TheCodersDream/React-Music-Lyrics-Application/blob/master/Screenshot_16.png)
+![alt-text](https://github.com/TheCodersDream/React-Music-Lyrics-Application/blob/master/Screenshot_14.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
